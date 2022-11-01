@@ -10,7 +10,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AndrewDongminYoo)
 
 
-**Java** / **Python** / **TS-Node** / **AWS** / **Mobile** 기반을 가지고 있는 외식업 출신의 비전공 개발자입니다. &nbsp; ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=Profile%20Visitors)
+**Java** / **Python** / **TS-Node** / **AWS** / **Mobile** 기반을 가지고 있는 외식업 출신의 비전공 개발자입니다. &nbsp; 
+&nbsp; <img alt="Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=Profile%20Visitors"/>
 
 
 <img align="right" alt="greeting cat" src="https://images.unsplash.com/photo-1512295767273-ac109ac3acfa" width="320" height="427" />
