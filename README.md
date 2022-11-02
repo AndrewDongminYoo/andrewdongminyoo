@@ -31,7 +31,9 @@
 📊 **실시간 트래킹 코딩타임:**
 <!--START_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
+```text
+Markdown   1 hr 54 mins    █████████████████████████   100.00 %
+```
 
 <!--END_SECTION:waka-->
 
