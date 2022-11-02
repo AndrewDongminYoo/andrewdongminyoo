@@ -10,7 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AndrewDongminYoo)
 
 
-**Java** / **Python** / **TS-Node** / **AWS** / **Mobile** 기반을 가지고 있는 외식업 출신의 비전공 개발자입니다. &nbsp; 
+**Java** / **Python** / **TS-Node** / **AWS** / **Mobile** 기반을 가지고 있는 외식업 출신의 개발자입니다. &nbsp;
 &nbsp; <img alt="Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=Profile%20Visitors"/>
 
 
@@ -29,12 +29,13 @@
 </br>
 
 📊 **실시간 트래킹 코딩타임:**
-<!--START_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
+
+<!--START_SECTION:waka-->
 ```text
 Markdown   1 hr 54 mins    █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
 
 
