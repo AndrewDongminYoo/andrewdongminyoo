@@ -47,6 +47,6 @@ Markdown   1 hr 54 mins    █████████████████�
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AndrewDongminYoo&theme=nord&rank=SECRET,SSS,SS,S,AA,A,B&margin-w=10&margin-h=10&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AndrewDongminYoo&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10&column=-1"/>
 </p>
 
