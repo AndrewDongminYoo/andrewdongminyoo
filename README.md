@@ -33,9 +33,14 @@
 [![wakatime](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   1 hr 54 mins    █████████████████████████   100.00 %
+Markdown     2 hrs 13 mins   ██████████████████░░░░░░░   71.48 %
+Dart         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Python       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
+
 <!--END_SECTION:waka-->
 
 
