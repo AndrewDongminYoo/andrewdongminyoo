@@ -10,8 +10,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AndrewDongminYoo)
 
 
-**Java** / **Python** / **TS-Node** / **AWS** / **Mobile** 기반을 가지고 있는 외식업 출신의 개발자입니다. &nbsp;
-&nbsp; <img alt="Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=Profile%20Visitors"/>
+**Java** / **Python** / **TS-Node** / **AWS** / **Mobile** 기반을 가지고 있는 외식업 출신의 개발자입니다. &nbsp; &nbsp; 
+<img alt="Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=Profile%20Visitors" loading="lazy" />
 
 
 <img align="right" alt="greeting cat" src="https://images.unsplash.com/photo-1512295767273-ac109ac3acfa" width="320" height="427" />
@@ -48,7 +48,7 @@ Other         34 mins         ██░░░░░░░░░░░░░░�
 📈 **깃허브 주요 활동:**
 
 <p style="margin-auto">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=AndrewDongminYoo&show_icons=true&count_private=true&card_width=495" />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDongminYoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&langs_count=8&hide=css,html&card_width=495" />
+  <img height="195em" width="100%" src="https://github-readme-stats.vercel.app/api?username=AndrewDongminYoo&show_icons=true&count_private=true&card_width=495" />
+  <img height="195em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDongminYoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&langs_count=8&hide=css,html&card_width=495" />
 </p>
 
