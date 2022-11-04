@@ -30,7 +30,7 @@
 
 📊 **실시간 트래킹 코딩타임:**
 
-[![wakatime](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
+<img class="all-time-badge tip" src="https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg" title="Total time coded since Nov 1 2022" />
 
 <!--START_SECTION:waka-->
 
