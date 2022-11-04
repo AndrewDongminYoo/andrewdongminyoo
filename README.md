@@ -48,11 +48,7 @@ Other         34 mins         ██░░░░░░░░░░░░░░�
 📈 **깃허브 주요 활동:**
 
 <p style="margin-auto">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=AndrewDongminYoo&show_icons=true" />
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDongminYoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AndrewDongminYoo&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10&column=-1"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=AndrewDongminYoo&show_icons=true&count_private=true&card_width=495" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDongminYoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&langs_count=8&hide=css,html&card_width=495" />
 </p>
 
