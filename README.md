@@ -22,7 +22,7 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Cloud 환경의 이해 및 활용, 상용 서비스 운영 경험이 있습니다. (AWS EB, EC2, Lambda, CloudFront, S3, EFS..) 빌드/테스트/배포 자동화 경험이 있습니다.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; - 자동화 테스트 코드를 작성하며 개발하는 것에 부담을 갖지 않습니다. 주도적으로 일을 하고, 책임감 있게 일을 마무리하려 노력합니다.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; "개발자의 미덕은 게으름?" - 어떻게 하면 더 빨리 더 잘 만들 수 없을까 항상 고민하며, 완벽만큼 완성을, 완성을 우선적으로 중요하게 생각합니다.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Flutter를 이용해 하이브리드 앱을 개발한 적이 있으며, 스크래핑 모듈과의 연동을 위해 코틀린/스위프트를 다뤄본 적이 있습니다.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Flutter/React-Native 를 이용해 하이브리드 앱을 개발한 적이 있으며, 스크래핑 모듈과의 연동을 위해 코틀린/스위프트를 다뤄본 적이 있습니다.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; "여러분은 완벽한 소프트웨어를 만들 수 없다. 그리 길지 않은 컴퓨터 역사를 통틀어 어느 누구도 해내지 못한 일이고, 여러분이 그 최초가 될 것 같지도 않다." (실용주의 프로그래머 中)
 항상 끝없이 의심하고, 제 자신까지도 완벽하게 신뢰하지 않습니다.
 
