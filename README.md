@@ -35,6 +35,6 @@ Other            63 hrs 48 mins  ███████████████�
 
 <!--END_SECTION:waka-->
 
-📈 **깃허브 주요 활동: 최근 30일 기준:**
+📈 **깃허브 주요 활동**
 
-<img src="https://wakatime.com/share/@AndrewDongminYoo/fc017b83-450e-461c-9750-83b7ae80fb4d.svg" width="100%"/>
+![AndrewDongminYoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/AndrewDongminYoo)
