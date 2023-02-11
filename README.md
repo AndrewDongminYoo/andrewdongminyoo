@@ -27,6 +27,9 @@
 
 [![Total time coded since Nov 1 2022](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg?style=for-the-badge)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
 
+
+📊 **주간 트래킹 코딩타임: 최근 7일간 통계**
+
 <!--START_SECTION:waka-->
 
 ```text
