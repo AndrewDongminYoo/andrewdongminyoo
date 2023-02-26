@@ -33,9 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 34 hrs 18 mins  ███████████▓░░░░░░░░░░░░░   47.28 %
-TypeScript             9 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Other                  7 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Kotlin                 36 hrs 31 mins  ████████████░░░░░░░░░░░░░   48.47 %
+TypeScript             9 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Other                  7 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
 ```
 
 <!--END_SECTION:waka-->
