@@ -33,9 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 15 hrs 54 mins  ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-JSON                   7 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Other                  6 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Kotlin                 18 hrs 19 mins  ██████░░░░░░░░░░░░░░░░░░░   24.41 %
+JSON                   10 hrs 3 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Objective-C++          7 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+TypeScript             7 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Other                  6 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
 ```
 
 <!--END_SECTION:waka-->
