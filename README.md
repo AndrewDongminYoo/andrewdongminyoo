@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 14 hrs 22 mins  █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-JSON                   11 hrs 2 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-TypeScript             10 hrs 11 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other                  9 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Other                  12 hrs 20 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
 ```
 
 <!--END_SECTION:waka-->
