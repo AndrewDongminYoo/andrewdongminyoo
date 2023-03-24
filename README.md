@@ -40,5 +40,5 @@ Other         19 hrs 32 mins  ████████████████�
 
 📈 **깃허브 주요 활동**
 
-![AndrewDongminYoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/AndrewDongminYoo)
-![AndrewDongminYoo GitHub Trophies](https://dooboo.io/api/github-trophies?login=AndrewDongminYoo)
+![AndrewDongminYoo GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=AndrewDongminYoo)
+![AndrewDongminYoo GitHub Trophies](https://stats.hyochan.dev/api/github-trophies?login=AndrewDongminYoo)
