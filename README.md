@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other                  27 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.65 %
+Other                  29 hrs 4 mins   █████████████▓░░░░░░░░░░░   54.83 %
+TypeScript             9 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Groovy                 3 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Bash                   1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Java                   1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
