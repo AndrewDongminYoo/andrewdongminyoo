@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            44 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.46 %
-TypeScript       16 hrs 32 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Markdown         6 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Dart             2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Git Config       1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other            40 hrs 49 mins  ██████████████▓░░░░░░░░░░   58.15 %
+TypeScript       17 hrs 18 mins  ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Markdown         6 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Git Config       1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Ruby             46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
