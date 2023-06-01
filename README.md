@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other           25 hrs 42 mins  ██████████░░░░░░░░░░░░░░░   40.45 %
-TypeScript      25 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   39.40 %
-Markdown        3 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-CocoaPods       2 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Git Config      1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+TypeScript      26 hrs 29 mins  ███████████░░░░░░░░░░░░░░   43.78 %
+Other           24 hrs 14 mins  ██████████░░░░░░░░░░░░░░░   40.06 %
+Markdown        2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+CocoaPods       2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Objective-C     1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
