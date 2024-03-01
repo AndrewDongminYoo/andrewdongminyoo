@@ -9,8 +9,7 @@
 [![Telegram Badge](assets/telegram.svg)](https://t.me/AndrewDongminYoo)
 
 **Python** / **TS-Node** / **Flutter** / **ReactJS** 기반을 가지고 있는 외식업 출신의 개발자입니다.
-<img src="https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=People+Who+Visit+this+Profile+or+Who+Read+this+README.md" alt="Profile Visitors"/>
-[![Status for @AndrewDongminYoo](https://badge.stateful.com/AndrewDongminYoo/status.svg)](https://app.stateful.com/@AndrewDongminYoo)
+<img src="https://visitor-badge.glitch.me/badge?page_id=AndrewDongminYoo.AndrewDongminYoo&left_text=People+Who+Visit+this+Profile+or+Who+Read+this+README.md" alt=""/>
 <img alt="confidence as a developer" src="assets/background.jpeg" width="320" height="427" style="margin: 8px" align="right" />
 
 **저의 주관적인 장점들:**
