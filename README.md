@@ -1,7 +1,7 @@
 <h1> 안녕하세요, 저는 유동민입니다. <img src="assets/greeting-cat.gif" alt=" " width="35"> </h1>
 <img alt="confidence as a developer" src="https://github.com/user-attachments/assets/68206afc-47e2-4e34-bed0-fefb3628f7fa" width="320" height="533" style="margin: 12px;" align="right" />
 
-
+---
 [![Linkedin Badge](assets/linked-in.svg)](https://www.linkedin.com/in/dongmin-yu-0394a5223/)
 [![DevBlog Badge](assets/tistory-blog.svg)](https://cat-minzzi.tistory.com/)
 [![KakaoTalk Badge](assets/kakao-talk.svg)](https://open.kakao.com/o/suc69eLe)
