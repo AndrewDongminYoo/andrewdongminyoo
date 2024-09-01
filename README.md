@@ -17,7 +17,7 @@
 
 <img src="assets/divider.svg" style="display:block;margin:20px auto;" width="100%" height="8" align="center" alt=""/>
 
-## 📊 실시간 트래킹 코딩타임: (22.10.01.부터 기록 중)
+### 📊 실시간 트래킹 코딩타임: (22.10.01.부터 기록 중)
 
 [![Total time coded since Nov 1 2022](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg?style=for-the-badge)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
 
