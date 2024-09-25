@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart          13 hrs 46 mins  ████████▒░░░░░░░░░░░░░░░░   33.65 %
-Other         13 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   32.59 %
-Elixir        4 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-TypeScript    4 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-Markdown      2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Dart          14 hrs 53 mins  ████████▓░░░░░░░░░░░░░░░░   34.16 %
+Other         13 hrs 13 mins  ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+TypeScript    4 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Elixir        4 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Markdown      2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->
