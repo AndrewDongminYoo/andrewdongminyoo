@@ -34,3 +34,10 @@ Markdown      17 mins         ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/AndrewDongminYoo/github-stats-transparent">
+
+![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg)
+
+</a>
