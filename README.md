@@ -1,11 +1,11 @@
-<h1> 안녕하세요, 저는 유동민입니다. <img src="assets/greeting-cat.gif" width="35" alt=""> </h1>
+<h1> 안녕하세요, 크로스 플랫폼 앱 개발자 유동민입니다. <img src="assets/greeting-cat.gif" width="35" alt=""> </h1>
 <img src="assets/presentation.jpeg" width="320" height="533" style="margin: 12px;" align="right" alt="" />
 
 [![Linkedin Badge](assets/linked-in.svg)](https://www.linkedin.com/in/dongmin-yu-0394a5223/)
 [![DevBlog Badge](assets/tistory-blog.svg)](https://cat-minzzi.tistory.com/)
 [![KakaoTalk Badge](assets/kakao-talk.svg)](https://open.kakao.com/o/suc69eLe)
 
-저는 **Python**, **TS-Node**, **Flutter**, **ReactJS** 기술을 바탕으로 성장해온 개발자입니다. 외식업 출신으로서 고객 중심의 사고를 바탕으로 개발에 접근하고 있습니다.
+저는 주로 **Flutter**와 **React Native** 기반 크로스 플랫폼 앱 개발자로 활동하며, Python, TypeScript(Node.js), ReactJS를 함께 다루고 있습니다.
 
 ### 저의 주관적인 장점들
 
