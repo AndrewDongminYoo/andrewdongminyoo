@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](assets/linked-in.svg)](https://www.linkedin.com/in/dongmin-yu-0394a5223/)
 [![DevBlog Badge](assets/tistory-blog.svg)](https://cat-minzzi.tistory.com/)
-[![KakaoTalk Badge](assets/kakao-talk.svg)](https://open.kakao.com/o/suc69eLe)
+[![KakaoTalk Badge](assets/kakao-talk.svg)](https://open.kakao.com/me/donminzzi)
 
 저는 주로 **Flutter**와 **React Native** 기반 크로스 플랫폼 앱 개발자로 활동하며, Python, TypeScript 등을 함께 다루고 있습니다.
 
