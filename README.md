@@ -22,23 +22,12 @@
 
 [![Total time coded since Nov 1 2022](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg?style=for-the-badge)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
 
-### 📊 주간 트래킹 코딩타임 (최근 7일간 통계)
+### [📊 WakaTime 코딩 타임 (최근 7일간 통계)](https://github.com/marketplace/actions/wakatime-svg)
 
-<!--START_SECTION:waka-->
+![WakaTime Languages](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg)
+![WakaTime Projects](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/projects.svg)
 
-```txt
-TypeScript        24 hrs 26 mins  ██████████░░░░░░░░░░░░░░░   40.05 %
-Dart              10 hrs 57 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Markdown          6 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-YAML              5 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-Other             4 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-```
-
-<!--END_SECTION:waka-->
-
-<a href="https://github.com/AndrewDongminYoo/github-stats-transparent">
+### [📊 깃허브 컨트리뷰션 통계](https://github.com/AndrewDongminYoo/github-stats-transparent)
 
 ![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg)
 ![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg)
-
-</a>
