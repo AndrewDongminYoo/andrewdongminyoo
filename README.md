@@ -1,5 +1,5 @@
 <h1> 안녕하세요, 크로스 플랫폼 앱 개발자 유동민입니다. <img src="assets/greeting-cat.gif" width="35" alt=""> </h1>
-<img src="assets/presentation.jpeg" width="320" height="533" style="margin: 12px;" align="right" alt="사내 컨퍼런스에서 발표 중인 유동민" />
+<img src="assets/presentation.jpeg" width="320" height="533" style="margin: 12px;" align="right" alt="개발자 밋업에서 발표 중인 유동민" />
 
 크로스 플랫폼 모바일 개발자 · **Flutter** / **React Native** / **TypeScript** / **Python**
 
@@ -14,9 +14,9 @@
 
 - <img src="assets/appstore.gif" width="21" alt="" /> **상용 앱 개발 및 출시 경험:** Flutter·React Native 상용 앱을 App Store·Google Play에 배포·운영하며, 실제 사용자 피드백을 반영해 제품을 지속적으로 개선했습니다.
 - <img src="assets/leaf.gif" width="21" alt="" /> **클라우드 환경 설계 및 CI/CD 자동화:** AWS·GCP/Firebase·Supabase로 크로스 플랫폼 백엔드를 구축하고, 빌드·배포 자동화로 서비스 안정성과 운영 효율을 높였습니다.
-- <img src="assets/mobile.gif" width="21" alt="" /> **제품 개발에 대한 열정 (사용자 중심적 사고):** 사용자 데이터를 기반으로 UI를 개선해 이탈률을 낮췄고, 외식업에서 고객과 직접 소통한 경험을 제품 기획·개발의 핵심으로 삼습니다.
-- <img src="assets/runway.gif" width="21" alt="" /> **기술적 문제해결 능력:** iOS/Android 플랫폼 이슈를 디버깅·최적화해 메모리 누수와 크래시를 다수 해결했고, Flutter·React Native 오픈소스 패키지를 만들어 배포했습니다.
-- <img src="assets/android.gif" width="21" alt="" /> **요리사 출신의 기술적 연결성:** 요리사 시절 해외 원서로 기본기를 탐구하던 습관을 이어, 공식 문서와 기술 원서를 깊이 이해해 동료가 신뢰하는 문서를 쓰고 기술 공유·내부 컨퍼런스를 이끌어 왔습니다.
+- <img src="assets/mobile.gif" width="21" alt="" /> **제품 개발에 대한 열정 (사용자 중심적 사고):** 사용자 데이터를 기반으로 UI를 개선하고, 외식업에서 고객과 직접 소통한 경험을 제품 기획·개발의 핵심으로 삼습니다.
+- <img src="assets/runway.gif" width="21" alt="" /> **기술적 문제해결 능력:** iOS/Android 플랫폼 이슈를 디버깅·최적화해 메모리 누수와 크래시를 다수 해결했고, `react-native-naver-login`(New Architecture TurboModule)·`rn-typed-assets` 등 오픈소스 패키지와 개발자 경험(DX) 도구를 만들어 배포했습니다.
+- <img src="assets/android.gif" width="21" alt="" /> **요리사 출신의 기술적 연결성:** 요리사 시절 해외 원서로 기본기를 탐구하던 습관을 이어, 공식 문서와 기술 원서를 깊이 파고들고 그 이해를 오픈소스 문서화와 외부 개발자 밋업 발표로 공유해 왔습니다.
 
 <img src="assets/divider.svg" style="display:block;margin:20px auto;" width="100%" height="8" align="center" alt=""/>
 
