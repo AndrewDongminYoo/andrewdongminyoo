@@ -13,7 +13,7 @@
 ## ✨ 저의 장점들
 
 - <img src="assets/appstore.gif" width="21" alt="" /> **상용 앱 개발 및 출시 경험:** Flutter·React Native 상용 앱을 App Store·Google Play에 배포·운영하며, 실제 사용자 피드백을 반영해 제품을 지속적으로 개선했습니다.
-- 🤖 **Agentic Coding & 개발 하니스 구축:** Claude Code 기반 서브에이전트 오케스트레이션·커스텀 스킬·지식 하니스를 설계해 개발 워크플로우를 자동화하고, 그 접근을 공개 프로젝트로 이어갑니다 — 음성 에이전트 [JARVIS](https://github.com/AndrewDongminYoo/jarvis-assistant), 타입세이프 에셋 코드젠 [rn-typed-assets](https://github.com/AndrewDongminYoo/rn-typed-assets), Figma→RN 코드 생성 [design-to-nativewind](https://github.com/AndrewDongminYoo/design-to-nativewind).
+- <img src="assets/sparkles.gif" width="21" alt="" /> **Agentic Coding & 개발 하니스 구축:** Claude Code 기반 서브에이전트 오케스트레이션·커스텀 스킬·지식 하니스를 설계해 개발 워크플로우를 자동화하고, 그 접근을 프로덕트로 이어갑니다.
 - <img src="assets/leaf.gif" width="21" alt="" /> **클라우드 환경 설계 및 CI/CD 자동화:** AWS·GCP/Firebase·Supabase로 크로스 플랫폼 백엔드를 구축하고, 빌드·배포 자동화로 서비스 안정성과 운영 효율을 높였습니다.
 - <img src="assets/mobile.gif" width="21" alt="" /> **제품 개발에 대한 열정 (사용자 중심적 사고):** 사용자 데이터를 기반으로 UI를 개선하고, 외식업에서 고객과 직접 소통한 경험을 제품 기획·개발의 핵심으로 삼습니다.
 - <img src="assets/runway.gif" width="21" alt="" /> **기술적 문제해결 능력:** iOS/Android 플랫폼 이슈를 디버깅·최적화해 메모리 누수와 크래시를 다수 해결했고, `react-native-naver-login`(New Architecture TurboModule) 등 오픈소스 패키지를 만들어 배포했습니다.
