@@ -53,10 +53,10 @@
 
 **WakaTime 최근 7일 통계** — 갱신: [`AndrewDongminYoo/wakatime-svg`](https://github.com/AndrewDongminYoo/wakatime-svg)
 
-<img src="https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg" width="49%" alt="WakaTime 언어별 통계" />
-<img src="https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/projects.svg" width="49%" alt="WakaTime 프로젝트별 통계" />
+![WakaTime 언어별 통계](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg)
+![WakaTime 프로젝트별 통계](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/projects.svg)
 
 **GitHub 컨트리뷰션 통계** — 갱신: [`AndrewDongminYoo/github-stats-transparent`](https://github.com/AndrewDongminYoo/github-stats-transparent)
 
-<img src="https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg" width="49%" alt="GitHub 기여 개요" />
-<img src="https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg" width="49%" alt="GitHub 언어별 통계" />
+![GitHub 기여 개요](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![GitHub 언어별 통계](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg)
