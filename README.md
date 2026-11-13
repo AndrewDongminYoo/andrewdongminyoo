@@ -33,7 +33,7 @@
 | **WarmWake (온음)**               | 어제의 내가 녹음한 음성 메시지로 하루를 시작하는 Flutter 알람 앱                                                                             | [웹사이트](https://warmwake.donminzzi.kr/)                                                               |
 | **TODO Slayer (구 QuestKeeper)**  | 할 일을 퀘스트로, 마감을 던전 조우로 표현하는 SwiftUI·SwiftData 기반 iOS 픽셀 RPG 투두 앱. 놓친 퀘스트는 그날의 임시 무덤으로만 남습니다.    | [웹사이트](https://quest.donminzzi.kr/) · [GitHub](https://github.com/AndrewDongminYoo/quest-keeper)     |
 | **Prism Defense (프리즘 디펜스)** | 그려서 타워를 소환하고 같은 타워를 합쳐 강화하는 랜덤 병합 타워 디펜스. 게임 엔진·비트맵 에셋 없이 Flutter `CustomPaint`로 렌더링합니다.     | [웹사이트](https://prism-defense.donminzzi.kr/)                                                          |
-| **catfood-feeder**                | 사료 라벨·제조사 문서에서 영양 성분을 추출하는 Next.js 앱. 모델이 제시한 수치를 근거 발췌문과 대조하고 서버에서 계산·판정을 다시 수행합니다. | [웹사이트](https://catfood.donminzzi.kr/) · [GitHub](https://github.com/AndrewDongminYoo/catfood-feeder) |
+| **catfood-feeder**                | 사료 라벨·제조사 문서에서 영양 성분을 추출하는 Next.js 앱. 모델이 제시한 수치를 근거 발췌문과 대조하고 서버에서 계산·판정을 다시 수행합니다. | [GitHub](https://github.com/AndrewDongminYoo/catfood-feeder) |
 
 ## 🧰 주요 오픈소스·개발 도구
 
