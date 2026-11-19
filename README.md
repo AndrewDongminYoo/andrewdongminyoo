@@ -49,15 +49,4 @@
 
 전체 오픈소스 목록은 [donminzzi.kr/oss](https://donminzzi.kr/oss)에 있습니다.
 
-<img src="assets/divider.svg" style="display:block;margin:20px auto;" width="100%" height="8" alt=""/>
-
-## 📊 코딩 활동 & 통계
-
-**실시간 트래킹 코딩 타임** (2022.10.01 ~ 기록 중)
-
-[![WakaTime 총 코딩 시간](https://wakatime.com/badge/user/9950e5aa-6874-4666-96a4-97dc4da0c644.svg?style=for-the-badge)](https://wakatime.com/@9950e5aa-6874-4666-96a4-97dc4da0c644)
-
-**GitHub 컨트리뷰션 통계** — 갱신: [`AndrewDongminYoo/github-stats-transparent`](https://github.com/AndrewDongminYoo/github-stats-transparent)
-
-![GitHub 기여 개요](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg)
-![GitHub 언어별 통계](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg)
+[![Animated isometric island grown from public GitHub activity, with palms, sea animals and visitors in translucent water](https://raw.githubusercontent.com/AndrewDongminYoo/github-island/output/island.svg)](https://github.com/AndrewDongminYoo/github-island)
