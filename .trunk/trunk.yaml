@@ -20,7 +20,7 @@ lint:
     - actionlint@1.7.12
     - checkov@3.4.6
     - git-diff-check
-    - markdownlint@0.50.0
+    - markdownlint@0.50.1
     - prettier@3.10.1
     - svgo@4.1.0
     - trufflehog@3.100.0
